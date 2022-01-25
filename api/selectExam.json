@@ -1,0 +1,23 @@
+[
+    {
+      "id": 0,
+      "ticker": "UPSC22",
+      "title": "UpSC 2022 exam",
+      "image": "",
+      "detail1": "Iportant exam for UPSC aspirants"
+    },
+    {
+      "id": 1,
+      "ticker": "IIT22",
+      "title": "IIT 2022 exam",
+      "image": "",
+      "detail1": "Iportant exam for UPSC aspirants"
+    },
+    {
+      "id": 2,
+      "ticker": "NEET22",
+      "title": "NEET 2022 exam",
+      "image": "",
+      "detail1": "Iportant exam for UPSC aspirants"
+    }
+  ]
