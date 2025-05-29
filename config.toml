@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://ppmurmu.github.io/"
-title = "Your Blog Name"
+title = "Pradeep Peter Murmu"
 
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -23,5 +23,5 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
-
+even_title = "Peter's Blog"
 # add giscus
